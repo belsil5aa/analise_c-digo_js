@@ -28,3 +28,5 @@ A tarefa em escolher dois códigos em javascript, análisá-los e implementá-lo
 • *if(this.value == ' '){ this.value='senha' ; this.type='text';}*
 : Verifica se o campo está vazio. Se estiver, Define o valor como 'senha' e o tipo como 'text'.
 • *if(this.value == ' senha '){ this.value=' password' ;}* : Verifica se o valor é 'senha'. Se for, limpa o campo e define como 'password'
+
+![img](img/img.exercicios.png)
