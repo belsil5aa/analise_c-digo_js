@@ -14,6 +14,7 @@ A tarefa em escolher dois códigos em javascript, análisá-los e implementá-lo
 
 •O elemento &lt;a&gt; tem um evento onClick que dispara a função timeMsg() quando clicado. Isso faz com que a mensagem "Terminal Root" só apareça após três segundos de espera.```
 
+![img](img/img.print.png)
 ### Código 2
 • *type="text* " : Define o tipo de entrada como texto.
  
