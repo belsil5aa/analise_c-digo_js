@@ -6,7 +6,13 @@
 A tarefa em escolher dois códigos em javascript, análisá-los e implementá-los para entender o que cada um faz.
  
 ### Código 1
- 
+•Este código HTML contém um script JavaScript embutido que define duas funções e um link que chama uma dessas funções quando clicado.
+
+•A função timeMsg() é chamada quando o link é clicado. Ela define um temporizador que aguarda três segundos.
+
+•A função alertMsg() é chamada após três segundos, como definido pela função timeMsg(). Ela escreve o texto "Terminal Root" no documento usando document.write().```
+
+•O elemento &lt;a&gt; tem um evento onClick que dispara a função timeMsg() quando clicado. Isso faz com que a mensagem "Terminal Root" só apareça após três segundos de espera.```
 
 ### Código 2
 • *type="text* " : Define o tipo de entrada como texto.
